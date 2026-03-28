@@ -1,6 +1,7 @@
 # Felix - Trystage Bedwars Staff Mod
 
-一个为 Minecraft 服务器管理员设计的 Fabric 客户端模组，专门用于群组服务器的玩家管理。
+一个为 TrystageBedwars 服务器管理员设计的 Fabric 客户端模组，专门用于TBW服务器的玩家管理。
+(本Repo为修改公示版)
 
 ## 功能特性
 
@@ -188,9 +189,9 @@ fabric_version=0.97.2+1.20.4
 
 ## 许可证
 
-本项目采用 **GNU General Public License v3.0** 许可证。
+所有权属于TrystageBedwars
 
-完整许可证文本请查看 [LICENSE](LICENSE) 文件。
+完整许可证文本请查看 [LICENSE](LICENSE) 文件。[中文LICENCE][LICENCE_CN]
 
 ## 贡献指南
 
@@ -210,7 +211,7 @@ fabric_version=0.97.2+1.20.4
 
 ## 免责声明
 
-本模组仅供服务器管理员在合法范围内使用。请遵守所在服务器的规则和 Minecraft 的使用条款。开发者不对滥用本模组的行为负责。
+本模组仅供TBW服务器管理员在合法范围内使用。请遵守所在服务器的规则和 Minecraft 的使用条款。开发者不对滥用本模组的行为负责。
 
 ## 更新日志
 
@@ -222,4 +223,4 @@ fabric_version=0.97.2+1.20.4
 
 ---
 
-**开发者**：Trystage4C01，stuffed cat，catbababa
+**开发者**：Trystage4C01，stuffed-cat，catbababa
