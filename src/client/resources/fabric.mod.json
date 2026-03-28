@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "felix",
+  "version": "1774699139363",
+  "name": "Felix",
+  "description": "Trystage Bedwars Staff Mod",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/felix/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "win.trystage.felix.FelixClient.FelixClient"
+    ]
+  },
+  "mixins": [
+    "felix.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "0.16.14",
+    "fabric": "*",
+    "minecraft": "1.20.4"
+  }
+}

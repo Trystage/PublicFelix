@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "win.trystage.felix.client.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [],
+  "client": [
+    "win.trystage.felix.client.mixin.ClientBrandMixin",
+    "win.trystage.felix.client.mixin.MouseMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

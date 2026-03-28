@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "felix",
+  "version": "v0.54.4-2540",
+  "name": "Felix",
+  "description": "Trystage Staff Tool",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/felix/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "win.trystage.felix.client.FelixClient"
+    ]
+  },
+  "mixins": [
+    "felix.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "0.16.14",
+    "fabric": "*",
+    "minecraft": "1.20.4"
+  }
+}
